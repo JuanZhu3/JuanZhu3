@@ -92,6 +92,8 @@
 ## 📫 Connect with me
 
 - GitHub: https://github.com/JuanZhu3
+- Gmail: felipezhu3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/juan-zhu-571979273/
 
 ---
 
